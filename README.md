@@ -13,7 +13,7 @@ Open to collaboration.
 ```assembly
 section .data
   name db "Artemy Vanchugov", 0xA
-  age db 15
+  age db 16
   music db "According to my mood", 0xA
   telegram db "https://t.me/a_vanchugov", 0xA
   msg db "Someone in the world is having fun, someone is feeling good. Everyone`s had some luck in life - but I wasn`t lucky."
