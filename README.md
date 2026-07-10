@@ -4,19 +4,13 @@
 
 ## 🧾 About Me
 
-Distributed systems engineer / Back-End developer. Work with MySQL, PostgreSQL, microservice architecture, distributed systems, RESTful APIs and other tech. I have SaaS project (with HMAC, tokens, HWID, etc.), experience in bot development, commercial projects, development in C. Commercial experience, Joint development (TypeScript&Java), Contributing in Open-Source, CS/DS knowledge.
-
-I'm interested in neuropsychology and psychoanalysis.
-
-Open to collaboration.
+Backend / distributed systems / web. I`m also interested in low-lavel and I like to create wrappers to improve expierence.
 
 ```assembly
 section .data
-  name db "Artemy Vanchugov", 0xA
+  name db "Artemiy Wanchugov", 0xA
   age db 16
-  music db "According to my mood", 0xA
-  telegram db "https://t.me/a_vanchugov", 0xA
-  msg db "Someone in the world is having fun, someone is feeling good. Everyone`s had some luck in life - but I wasn`t lucky."
+  msg db "Viva Argentina"
   message_len equ $ - msg
 
 section .text
